@@ -38,8 +38,8 @@ foreach($mousseAuChocolat->getAppareils() as $appareil) {
 //var_dump($mousseAuChocolat->getIngredients());
 //var_dump($mousseAuChocolat->getUstensiles());
 //var_dump($mousseAuChocolat->getAppareils());
-
 // $mousseAuChocolat->GetIngredients();
-
 //var_dump($mousseAuChocolat);
+
+
 
