@@ -12,7 +12,7 @@ $ingredients = [
 ];
 
 $ustensiles = [
-    $saladier = new Ustensile("saladier", "contient", "verre"),
+    $saladier = new Ustensile("saladierbol", "contient", "verre"),
     $fouet = new Ustensile("fouet", "fouette", "inox"),
     $casserole = new Ustensile("casserole", "chauffe", "inox")
 ];
